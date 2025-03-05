@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>COMP 2600 Assignment 2</title><link href="https://LucasBerzuk.github.io/COMP2600A2/" rel="alternate"></link><link href="https://LucasBerzuk.github.io/COMP2600A2/feeds/all.atom.xml" rel="self"></link><id>https://LucasBerzuk.github.io/COMP2600A2/</id><updated>2025-03-04T00:00:00-06:00</updated><entry><title>About</title><link href="https://LucasBerzuk.github.io/COMP2600A2/about.html" rel="alternate"></link><published>2025-03-04T00:00:00-06:00</published><updated>2025-03-04T00:00:00-06:00</updated><author><name>Lucas Berzuk</name></author><id>tag:lucasberzuk.github.io,2025-03-04:/COMP2600A2/about.html</id><content type="html">&lt;p&gt;This website is the home of Lucas Berzuk&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Resume</title><link href="https://LucasBerzuk.github.io/COMP2600A2/resume.html" rel="alternate"></link><published>2025-03-04T00:00:00-06:00</published><updated>2025-03-04T00:00:00-06:00</updated><author><name>Lucas Berzuk</name></author><id>tag:lucasberzuk.github.io,2025-03-04:/COMP2600A2/resume.html</id><summary type="html">&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-&lt;h1&gt;Lucas Berzuk&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>COMP 2600 Assignment 2</title><link href="https://LucasBerzuk.github.io/COMP2600A2/" rel="alternate"></link><link href="https://LucasBerzuk.github.io/COMP2600A2/feeds/all.atom.xml" rel="self"></link><id>https://LucasBerzuk.github.io/COMP2600A2/</id><updated>2025-03-04T00:00:00-06:00</updated><entry><title>About</title><link href="https://LucasBerzuk.github.io/COMP2600A2/about.html" rel="alternate"></link><published>2025-03-04T00:00:00-06:00</published><updated>2025-03-04T00:00:00-06:00</updated><author><name>Lucas Berzuk</name></author><id>tag:lucasberzuk.github.io,2025-03-04:/COMP2600A2/about.html</id><content type="html">&lt;p&gt;This website is the home of Lucas Berzuk&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Resume</title><link href="https://LucasBerzuk.github.io/COMP2600A2/resume.html" rel="alternate"></link><published>2025-03-04T00:00:00-06:00</published><updated>2025-03-04T00:00:00-06:00</updated><author><name>Lucas Berzuk</name></author><id>tag:lucasberzuk.github.io,2025-03-04:/COMP2600A2/resume.html</id><summary type="html">&lt;h2&gt;Lucas Berzuk&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="mailto:berzukl@myumanitoba.ca"&gt;berzukl@myumanitoba.ca&lt;/a&gt; | &lt;a href="https://github.com/LucasBerzuk"&gt;GitHub&lt;/a&gt; | Phone: 204-899-9971&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
@@ -15,11 +11,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;Experience&lt;/h2&gt;
-&lt;h4&gt;&lt;strong&gt;Vehicle Interior Detailer&lt;/strong&gt; – Chamois Car Wash (March …&lt;/h4&gt;</summary><content type="html">&lt;p&gt;&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;&lt;/p&gt;
-&lt;h1&gt;Lucas Berzuk&lt;/h1&gt;
+&lt;h4&gt;&lt;strong&gt;Vehicle Interior Detailer&lt;/strong&gt; – Chamois Car Wash (March …&lt;/h4&gt;</summary><content type="html">&lt;h2&gt;Lucas Berzuk&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="mailto:berzukl@myumanitoba.ca"&gt;berzukl@myumanitoba.ca&lt;/a&gt; | &lt;a href="https://github.com/LucasBerzuk"&gt;GitHub&lt;/a&gt; | Phone: 204-899-9971&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
