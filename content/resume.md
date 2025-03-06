@@ -19,32 +19,32 @@ Category: Resume
 
 ## Experience
 
-#### **Vehicle Interior Detailer** – Chamois Car Wash (March 2019 – August 2019)
-+ Cleaning interiors of customers vehicles.
-+ Prepping vehicles to be washed. 
-
-#### **Landscaper** – Pyramid Rock Gardening (August 2019 – September 2020)
-+ Patio building with natural flagstone.
-+ Mining flagstone at a quarry, leader of my team. 
+#### **Bartender** – Local Public Eatery (March 2022 – Present)
++ Serving high quality food, drinks and experience in an upscale pub environment. 
++ Hard worker that my managers rely on in stressful situations. 
 
 #### **Landscaper** – Green Blade Lawn Care (May 2021 – March 2022)
 + Weekly lawn care maintenence for customers.
 + Includes grass cutting, aerating, weedwhacking and fertilizing.
 
-#### **Bartender** – Local Public Eatery (March 2022 – Present)
-+ Serving high quality food, drinks and experience in an upscale pub environment. 
-+ Hard worker that my managers rely on in stressful situations. 
+#### **Landscaper** – Pyramid Rock Gardening (August 2019 – September 2020)
++ Patio building with natural flagstone.
++ Mining flagstone at a quarry, leader of my team. 
+
+#### **Vehicle Interior Detailer** – Chamois Car Wash (March 2019 – August 2019)
++ Cleaning interiors of customers vehicles.
++ Prepping vehicles to be washed. 
 
 ---
 
 ## Education
 
-#### **High School Diploma** - River East Collegiate (2020)
-+ Graduated with honours while taking multiple AP classes
-
 #### **Bachelors of Computer Science** – University of Manitoba (2025)
 + Focus on Human Computer Interaction, Databases, Data Science and Software Engineering
 + Minor in Statistics
+
+#### **High School Diploma** - River East Collegiate (2020)
++ Graduated with honours while taking multiple AP classes
 
 ---
 
