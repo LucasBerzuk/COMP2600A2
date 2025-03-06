@@ -1,6 +1,6 @@
 Title: Resume
 Date: 2025-03-04
-
+Category: Resume
 
 # Lucas Berzuk
 
