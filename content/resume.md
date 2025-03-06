@@ -10,10 +10,10 @@ Category: Resume
 
 ## Summary
 
-+ Undergraduate student at the University of Manitoba currently in my final semester. My goal is to become a software/data engineer
-+ Major: Computer Science
-+ Minor: Statistics
-+ Other Focuses: Databases, Data Science, Machine Learning
++ Undergraduate student at the University of Manitoba currently in my final semester. My goal is to become a software/data engineer.
++ Major: Computer Science.
++ Minor: Statistics.
++ Other Focuses: Databases, Data Science, Machine Learning, HCI.
 
 ---
 
@@ -40,11 +40,11 @@ Category: Resume
 ## Education
 
 #### **Bachelors of Computer Science** – University of Manitoba (2025)
-+ Focus on Human Computer Interaction, Databases, Data Science and Software Engineering
-+ Minor in Statistics
++ Main focuses on Software Engineering, Human Computer Interaction, Data Science and Artificial Intelligence.
++ Minor in Statistics.
 
 #### **High School Diploma** - River East Collegiate (2020)
-+ Graduated with honours while taking multiple AP classes
++ Graduated with honours while taking multiple AP classes.
 
 ---
 
