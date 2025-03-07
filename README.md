@@ -25,7 +25,7 @@ Before you get started, you will need to install a few things to ensure everythi
 
 In this section, I am going to give a list of instructions that is formal, and comprehensive, as per Etter's recommendations in his book: Modern Technical Writing. There are multiple steps that you need to take to be able to host a static site on a forge like Git.
 
-### GitHub: Distributed Verion Control
+### GitHub: Distributed Version Control
 
 First, after you have all of the required installations complete, you will need to create an account on GitHub and initialize a new repository. The benefit of using a distributed version control system such as GitHub is outlined in Etter's book, it allows you to store your source code in the same repository as your documentation, just like how this README is in the same place as the code for my personal website! 
 
@@ -40,7 +40,7 @@ The next process is cloning this repository that you have just created, onto you
 
 #### Option 1: Using an Integrated Development Environment (IDE)
 
-The first option is to use an IDE such as VSCode to set up your work environment. I find this to be more user friendly than than simply just using the command line. 
+The first option is to use an IDE such as VSCode to set up your work environment. I find this to be more user friendly than simply just using the command line. 
 
 - Step 3.1a: If you want to use an IDE and do not already have one, visit this [link](https://code.visualstudio.com/download) to download VSCode (my personal favourtie).
 - Step 3.1b: Once you have downloaded VSCode, navigate to the toolbar on the left side of the screen and click on the icon indicated "Source Control".
@@ -54,7 +54,7 @@ The second way to clone your repository, if you do not want to use an IDE, is to
 
 ### Setting Up the Website
 
-Once you have your repository and work space set up, now it is time to set up the static website. The benefits of using a static website rather than just creating a PDF for a task such as this, is that it allows you to update content almost instantly as outlined in Etter's book. If you were to use a PDF to create your resume, you would have to resend out new copies of this PDF every time you update the file. With a website it will automatically update!
+Once you have your repository and workspace set up, now it is time to set up the static website. The benefits of using a static website rather than just creating a PDF for a task such as this, is that it allows you to update content almost instantly as outlined in Etter's book. If you were to use a PDF to create your resume, you would have to resend out new copies of this PDF every time you update the file. With a website it will automatically update!
 
 - Step 4: In your command line, type *pelican-quickstart* to initialize the pelican project.
 
@@ -69,7 +69,7 @@ Now you are going to be prompted with a bunch of setup options, below I have lis
 
 ### Uploading Your Resume
 
-After you have selected all of your options for the new Pelican website, you should see a folder in your directory titled "content" This is the folder where you are going to put your markdown (.md) file that you would like to be displayed on the website. The benefits of using regular markdown as outlined in Etter's book, are that it is easy to use and it is compatable with GitHub. MArkdown is a great tool to be able to present static information, images, etc.
+After you have selected all of your options for the new Pelican website, you should see a folder in your directory titled "content" This is the folder where you are going to put your markdown (.md) file that you would like to be displayed on the website. The benefits of using regular markdown as outlined in Etter's book, are that it is easy to use, and it is very compatible with GitHub. Markdown is a great tool to be able to present static information, images, etc.
 
 - Step 6: Put your Resume.md file into the "content" folder.
   - If you have not yet typed your resume out in markdown, now is the time to do so. 
