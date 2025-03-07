@@ -27,10 +27,10 @@ In this section, I am going to give a list of instructions that is formal, and c
 
 ### GitHub: Distributed Version Control
 
-First, after you have all of the required installations complete, you will need to create an account on GitHub and initialize a new repository. The benefit of using a distributed version control system such as GitHub is outlined in Etter's book, it allows you to store your source code in the same repository as your documentation, just like how this README is in the same place as the code for my personal website! 
+First, after you have all of the required installations complete, you will need to create an account on GitHub and initialize a new repository. The benefit of using a distributed version control system such as GitHub is outlined in Etter's book. Distributed version control allows you to work offline, have better performance, and most importantly; the majority of developers prefer something such as GitHub for technical documentation.
 
-- Step 1: To create an account on GitHub, click [here](https://github.com/)
-- Step 2: Then navigate your way to the new repository button and click create a new repository. 
+- Step 1: To create an account on GitHub, click [here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+- Step 2: Then navigate your way to the new repository button on the GitHub website, and click create a new repository. 
   - You may name the repository whatever you like.
   - There are many other options you can enable for a repository, but I suggest just using the default options.
 
@@ -42,7 +42,7 @@ The next process is cloning this repository that you have just created, onto you
 
 The first option is to use an IDE such as VSCode to set up your work environment. I find this to be more user friendly than simply just using the command line. 
 
-- Step 3.1a: If you want to use an IDE and do not already have one, visit this [link](https://code.visualstudio.com/download) to download VSCode (my personal favourtie).
+- Step 3.1a: If you want to use an IDE, visit this [link](https://code.visualstudio.com/download) to download VSCode (my personal favourtie).
 - Step 3.1b: Once you have downloaded VSCode, navigate to the toolbar on the left side of the screen and click on the icon indicated "Source Control".
 - Step 3.1c: Then you are going to want to click the "Clone Repository" button, and paste the URL link of your GitHub repository in there. 
 
@@ -54,18 +54,24 @@ The second way to clone your repository, if you do not want to use an IDE, is to
 
 ### Setting Up the Website
 
-Once you have your repository and workspace set up, now it is time to set up the static website. The benefits of using a static website rather than just creating a PDF for a task such as this, is that it allows you to update content almost instantly as outlined in Etter's book. If you were to use a PDF to create your resume, you would have to resend out new copies of this PDF every time you update the file. With a website it will automatically update!
+Once you have your repository and workspace set up, now it is time to set up the static website. The benefits of using a static website rather than just creating a PDF for a task such as this, is that it allows you to update content almost instantly as Etter's stated in his book. If you were to use a PDF to create your resume, you would have to resend out new copies of this PDF every time you update the file. With a website, it will automatically update!
 
 - Step 4: In your command line, type *pelican-quickstart* to initialize the pelican project.
 
-Now you are going to be prompted with a bunch of setup options, below I have listed out the spcific options that you need to modify during your setup. Any option that appears that i have not listed here, you may just press enter. 
+Now you are going to be prompted with a bunch of setup options, below I have listed out the spcific options that you need to modify during your setup. Any option that appears that I have not listed here, you may just press enter. 
 
-- Step 5.1: When you see *What will be the title of this web site?*, you may name it whatever you like.
-- Step 5.2: When you see *Who will be the author of this web site?*, you may type out your name and press enter. 
-- Step 5.3: When you see *Do you want to specify a URL prefix? e.g., https://example.com (Y/n)*, be sure to press the "Y" key and then enter. 
-- Step 5.4: When you see *What is your URL prefix? (see above example; no trailing slash)*, enter the URL **https://[YourGitHubUsername].github.io/[YourRepositoryName]**.
-- Step 5.5: When you see *Do you want to upload your website using GitHub Pages? (y/N)*, press the "Y" key and then enter.
-- Step 5.6: When you see *Is this your personal page (username.github.io)? (y/N)*, press the "Y" key and then enter.
+- Step 5.1: When you see *What will be the title of this web site?* 
+  - You may name it whatever you  and press enter.
+- Step 5.2: When you see *Who will be the author of this web site?*
+  - You may type out your name and press enter. 
+- Step 5.3: When you see *Do you want to specify a URL prefix? e.g., https://example.com (Y/n)*.
+  - Be sure to press the "Y" key and then enter. 
+- Step 5.4: When you see *What is your URL prefix? (see above example; no trailing slash)*.
+  - Enter the URL **https://[YourGitHubUsername].github.io/[YourRepositoryName]**.
+- Step 5.5: When you see *Do you want to upload your website using GitHub Pages? (y/N)*.
+  - Press the "Y" key and then enter.
+- Step 5.6: When you see *Is this your personal page (username.github.io)? (y/N)*.
+  - Press the "Y" key and then enter.
 
 ### Uploading Your Resume
 
