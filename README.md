@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This README is constructed to be a guideline to help understand and execute the process of developing and hosting a static site on a forge like GitHub. 
+This README is constructed to be a guideline to help understand the process of developing and hosting a static website that contains a Markdown file such as your resume, on a forge like GitHub.
 
 ---
 
@@ -58,10 +58,10 @@ Once you have your repository and workspace set up, now it is time to set up the
 
 - Step 4: In your command line, type *pelican-quickstart* to initialize the pelican project.
 
-Now you are going to be prompted with a bunch of setup options, below I have listed out the spcific options that you need to modify during your setup. Any option that appears that I have not listed here, you may just press enter. 
+Now you are going to be prompted with a bunch of setup options, below I have listed out the specific options that you need to modify during your setup. Any option that appears that I have not listed here, you may just press enter. 
 
 - Step 5.1: When you see *What will be the title of this web site?* 
-  - You may name it whatever you  and press enter.
+  - You may name it whatever you want, and press enter.
 - Step 5.2: When you see *Who will be the author of this web site?*
   - You may type out your name and press enter. 
 - Step 5.3: When you see *Do you want to specify a URL prefix? e.g., https://example.com (Y/n)*.
@@ -75,10 +75,10 @@ Now you are going to be prompted with a bunch of setup options, below I have lis
 
 ### Uploading Your Resume
 
-After you have selected all of your options for the new Pelican website, you should see a folder in your directory titled "content" This is the folder where you are going to put your markdown (.md) file that you would like to be displayed on the website. The benefits of using regular markdown as outlined in Etter's book, are that it is easy to use, and it is very compatible with GitHub. Markdown is a great tool to be able to present static information, images, etc.
+After you have selected all of your options for the new Pelican website, you should see a folder in your directory titled "content". This is the folder where you are going to put your Markdown (.md) file that you would like to be displayed on the website. The benefits of using regular Markdown as outlined in Etter's book, are that it is easy to use, and it is very compatible with GitHub. Markdown is a great tool to be able to present static information, images, etc.
 
 - Step 6: Put your Resume.md file into the "content" folder.
-  - If you have not yet typed your resume out in markdown, now is the time to do so. 
+  - If you have not yet typed your resume out in Markdown, now is the time to do so. 
 
 ### Commit
 
@@ -113,7 +113,7 @@ Below I have supplied for you multiple resources to learn more about the technol
 
 ## FAQ
 
-- Q: Why did we pick markdown as the language of choice opposed to something like raw HTML?
+- Q: Why did we pick Markdown as the language of choice opposed to something like raw HTML?
   - A: Markdown is much easier to read and work with when in raw source code, making it more user friendly. It is easier for new users to understand.
 
 - Q: I changed some details in the Markdown version of my resume so why don’t I see the changes when I refresh the website in my browser?
