@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This README is constructed to be a guideline to help understand the process of developing and hosting a static website that contains a Markdown file such as your resume, on a forge like GitHub.
+This README is constructed to be a guideline to help understand the process of developing and hosting a Pelican generated static website, that contains a Markdown file such as your resume, on a forge like GitHub.
 
 ---
 
@@ -107,7 +107,7 @@ Below I have supplied for you multiple resources to learn more about the technol
 1. This [link](https://docs.getpelican.com/en/latest/quickstart.html) will take you to a website that highlights everything you will need to know about Pelican, the static site generator.
 2. This [link](https://docs.github.com/en/get-started/using-git/about-git) will take you to a section of the Git tutorial that will show some of the useful commands of Git. Feel free to explore the site and learn a little bit more about Git because it will be of great help to you. 
 3. This [link](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) will help you understand everything about GitHub Pages, which is what we have used here to host our static website. 
-4. This [link](https://www.markdownguide.org/basic-syntax/) is to a Markdown syntax cheat sheet that will help you fully understand the ins and outs of Markdown.
+4. This [link](https://commonmark.org/help/tutorial/) is to a Markdown tutorial that will help you fully understand the ins and outs of Markdown.
 
 ---
 
